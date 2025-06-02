@@ -1,0 +1,8 @@
+{
+  "values": [
+    "minecraft:bedrock",
+    "#forge:ores",
+    "minecraft:obsidian",
+    "minecraft:crying_obsidian"
+  ]
+}

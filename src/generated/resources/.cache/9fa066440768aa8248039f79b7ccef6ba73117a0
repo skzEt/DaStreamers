@@ -1,0 +1,6 @@
+// 1.21.1	2025-06-02T02:02:24.1432089	Tags for minecraft:block mod id streamermod
+180a6c87d4022f81cda5b6ce5b805a309c461c99 data/minecraft/tags/block/logs_that_burn.json
+579832a4686af5b70efc430460d1878f347a4543 data/minecraft/tags/block/mineable/pickaxe.json
+579832a4686af5b70efc430460d1878f347a4543 data/minecraft/tags/block/needs_iron_tool.json
+eb35797d10700d698cc85ef0710c03f059bc2301 data/streamermod/tags/block/om_nom_explode.json
+f1bc84a5140491c99ffbfad16102abd111827a95 data/streamermod/tags/block/om_nom_ore.json

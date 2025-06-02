@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_dumpling": {
+      "conditions": {
+        "items": [
+          {
+            "items": "streamermod:dumpling"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "streamermod:overcooked_dumpling_from_campfire_cooking_dumpling"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_dumpling"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "streamermod:overcooked_dumpling_from_campfire_cooking_dumpling"
+    ]
+  }
+}

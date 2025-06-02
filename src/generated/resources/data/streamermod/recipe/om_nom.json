@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "streamermod:ball_of_drake"
+    },
+    "B": {
+      "item": "streamermod:twitch_block"
+    },
+    "D": {
+      "item": "minecraft:diamond_pickaxe"
+    },
+    "G": {
+      "item": "minecraft:golden_pickaxe"
+    },
+    "I": {
+      "item": "minecraft:iron_pickaxe"
+    },
+    "S": {
+      "item": "minecraft:stone_pickaxe"
+    },
+    "W": {
+      "item": "minecraft:wooden_pickaxe"
+    }
+  },
+  "pattern": [
+    "WSI",
+    "GBD",
+    "AAA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "streamermod:om_nom"
+  }
+}

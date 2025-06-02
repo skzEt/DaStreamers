@@ -1,0 +1,17 @@
+{
+  "structures": [
+    {
+      "structure": "streamermod:gingerbread_house",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1281952519,
+
+    "spacing": 20,
+
+    "separation": 6,
+
+    "type": "minecraft:random_spread"
+  }
+}

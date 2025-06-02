@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "streamermod:block/twitch_block"
+    }
+  }
+}

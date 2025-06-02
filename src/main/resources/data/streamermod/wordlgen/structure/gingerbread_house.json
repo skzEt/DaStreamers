@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:jigsaw",
+
+  "start_pool": "streamermod:gingerbread_house/start_pool",
+
+  "size": 2,
+
+  "max_distance_from_center": 80,
+
+  "biomes": "#streamermod:has_structure/gingerbread_house",
+
+  "step": "surface_structures",
+
+  "start_height": {
+    "absolute": 0
+  },
+
+  "project_start_to_heightmap": "WORLD_SURFACE_WG",
+
+  "use_expansion_hack": false
+}

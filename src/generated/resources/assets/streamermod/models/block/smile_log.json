@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "streamermod:block/smile_log_top",
+    "side": "streamermod:block/smile_log"
+  }
+}

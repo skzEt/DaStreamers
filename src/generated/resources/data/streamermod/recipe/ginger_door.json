@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "streamermod:mazellovvv_cookie"
+    }
+  },
+  "pattern": [
+    "GG",
+    "GG",
+    "GG"
+  ],
+  "result": {
+    "count": 3,
+    "id": "streamermod:ginger_door"
+  }
+}

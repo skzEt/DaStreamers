@@ -1,0 +1,76 @@
+{
+  "item.streamermod.dumpling": "Пельмень",
+  "item.streamermod.dumpling_sun": "Антонио-пельменито",
+  "item.streamermod.ball_of_drake": "Шароподобный Дрейк",
+  "item.streamermod.stintocoin": "Стинта Коин",
+  "item.streamermod.mazellovvv_microphone": "Микрофон Мазелова",
+
+  "item.streamermod.glasses": "Крутые очки",
+  "item.streamermod.stint_helmet": "Позолоченный монетами шлем",
+  "item.streamermod.boxers": "Боксеры",
+  "item.streamermod.dnd_chestplate": "ДНД Нагрудник",
+  "item.streamermod.dnd_book": "ДНД книга",
+  "item.streamermod.closed_dnd_book": "Пустая ДНД книга",
+  "item.streamermod.drake_pendant": "Подвеска Дрейка",
+
+  "item.streamermod.overcooked_dumpling": "Сгоревший Пельми",
+  "item.streamermod.mazellovvv_cookie": "Мазеловная печенька",
+  "block.streamermod.ginger_door": "Имбирная пряниковая дверь",
+
+  "block.streamermod.ginger_block": "Имбирный пряниковый блок",
+  "block.streamermod.ginger_stairs": "Имбирный приняковый блок лестницы",
+
+  "block.streamermod.sugar_block": "Сахарный блок",
+  "block.streamermod.sugar_stairs": "Сахарный блок лестницы",
+  "block.streamermod.sugar_slab": "Сахарная плита",
+
+  "block.streamermod.smile_log": "Улыбчивое бревно",
+  "block.streamermod.smile_wood": "Улыбчивое дерево",
+  "block.streamermod.stripped_smile_log": "Обтессаное улыбчивое бревно",
+  "block.streamermod.stripped_smile_wood": "Обтессаное улыбчивое дерево",
+  "block.streamermod.smile_planks": "Улыбчивые доски",
+  "block.streamermod.smile_leaves": "Улыбчивые листья",
+  "block.streamermod.smile_sapling": "Улыбчивый сажанец",
+
+  "item.streamermod.school_boot": "Бархатные тяги",
+  "item.streamermod.twitch_diamond": "Твичовский алмаз",
+  "item.streamermod.coin_alloy": "Сплав монет",
+  "item.streamermod.om_nom": "Ам Ням",
+  "item.streamermod.super_om_nom": "Супер Ам Ням",
+  "item.streamermod.eqlan_alloy": "Сплав Еблан сквада",
+  "item.streamermod.holy_mantle": "Святая мантия",
+  "item.streamermod.transmitter": "Рация",
+
+  "block.streamermod.twitch_ore": "Твичовская руда",
+  "block.streamermod.deepslate_twitch_ore": "Глубокая сланцевая твичовская руда",
+  "block.streamermod.twitch_block": "Твичовский блок",
+  "item.streamermod.twitch_axe": "Твичовский топор",
+  "item.streamermod.twitch_sword": "Твичовский меч",
+  "item.streamermod.twitch_pickaxe": "Твичовская кирка",
+  "item.streamermod.twitch_shovel": "Твичовская лопата",
+  "item.streamermod.twitch_hoe": "Твичовская мотыга",
+
+  "item.streamermod.dice": "Кубик",
+
+  "effect.streamermod.smiler": "Улыбающийся",
+
+  "creativetab.streamer_tab": "Streamer Mod",
+  "button.streamermod.attack_1": "Взрыв",
+  "screen.streamermod.smile": "Улыбающийся",
+  "streamermod.message.tnt": "Бомбящих птичек осталось: %s",
+  "streamermod.message.tnt1": "Птички прелетят через: %s",
+  "streamermod.message.invalid": "13 стих - Инвалид",
+  "streamermod.message.okroshka": "70 стих - Окрошка",
+
+  "streamermod.message.ability_1": "Взрывной луч - D6",
+  "streamermod.message.ability_2": "Телепорт - D10",
+  "streamermod.message.ability_3": "Леветация - D4",
+
+  "streamermod.message.cube": "На кубике выпало число: %s",
+  "streamermod.message.max_cube": "МАКСИМАЛЬНОЕ ЧИСЛО!",
+
+  "streamermod.description.transmitter": "ВЗРЫВООПАСНО! ИСПОЛЬЗУЙ С УМОМ",
+  "streamermod.description.om_nom": "Не использовать на бедрок и обсидиан",
+  "streamermod.description.holy_mantle": "Священный предмет созданный высшими",
+  "streamermod.description.dnd_book": "Старая книга, но она не простая"
+}

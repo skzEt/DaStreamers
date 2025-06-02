@@ -1,0 +1,75 @@
+{
+  "item.streamermod.dumpling": "Dumpling",
+  "item.streamermod.dumpling_sun": "Antonio-pelmenito",
+  "item.streamermod.stintocoin": "Stint coin",
+  "item.streamermod.ball_of_drake": "Ball of Drake",
+  "item.streamermod.mazellovvv_microphone": "Mazellovvv microphone",
+
+  "item.streamermod.glasses": "Cool glasses",
+  "item.streamermod.stint_helmet": "A coin-gilded helmet",
+  "item.streamermod.boxers": "Boxers",
+  "item.streamermod.dnd_chestplate": "DND Chestplate",
+  "item.streamermod.dnd_book": "DND book",
+  "item.streamermod.closed_dnd_book": "Empty DND book",
+  "item.streamermod.drake_pendant": "Drake's pendant",
+
+  "item.streamermod.overcooked_dumpling": "Burnt pelmi",
+  "item.streamermod.mazellovvv_cookie": "Mazellovvv Cookie",
+
+  "block.streamermod.ginger_block": "Ginger Bread Block",
+  "block.streamermod.ginger_stairs": "Ginger Bread Stair",
+  "block.streamermod.ginger_door": "Ginger Bread Door",
+
+  "block.streamermod.sugar_block": "Sugar Block",
+  "block.streamermod.sugar_stairs": "Sugar Stair",
+  "block.streamermod.sugar_slab": "Sugar Slab",
+
+  "block.streamermod.smile_log": "Smile Log",
+  "block.streamermod.smile_wood": "Smile Wood",
+  "block.streamermod.stripped_smile_log": "Stripped Smile Log",
+  "block.streamermod.stripped_smile_wood": "Stripped Smile Wood",
+  "block.streamermod.smile_planks": "Smile Planks",
+  "block.streamermod.smile_leaves": "Smile Leaves",
+  "block.streamermod.smile_sapling": "Smile Sapling",
+
+  "item.streamermod.school_boot": "Velvet traction",
+  "item.streamermod.twitch_diamond": "Twitch Diamond",
+  "item.streamermod.coin_alloy": "Coin Alloy",
+  "item.streamermod.om_nom": "Om Nom",
+  "item.streamermod.super_om_nom": "Super Om Nom",
+  "item.streamermod.eqlan_alloy": "Eblan Squada rafting",
+  "item.streamermod.holy_mantle": "Holy Mantle",
+  "item.streamermod.transmitter": "Transmitter",
+
+  "block.streamermod.twitch_ore": "Twitch ore",
+  "block.streamermod.deepslate_twitch_ore": "Deepslate Twitch ore",
+  "block.streamermod.twitch_block": "Twitch Block",
+  "item.streamermod.twitch_axe": "Twitch Axe",
+  "item.streamermod.twitch_sword": "Twitch Sword",
+  "item.streamermod.twitch_pickaxe": "Twitch Pickaxe",
+  "item.streamermod.twitch_shovel": "Twitch Shovel",
+  "item.streamermod.twitch_hoe": "Twitch Hoe",
+
+  "item.streamermod.dice": "Dice",
+
+  "effect.streamermod.smiler": "Smiler",
+
+  "creativetab.streamer_tab": "Streamer Mod",
+  "button.streamermod.attack_1": "Explosion",
+  "screen.streamermod.smile": "Smiler",
+  "streamermod.message.tnt": "There are %s TNT left",
+  "streamermod.message.tnt1": "TNT Flying for %s",
+  "streamermod.message.invalid": "13 poem - Disabled",
+  "streamermod.message.okroshka": "70 poem - Okroshka",
+
+  "streamermod.message.ability_1": "Explosive Beam - D6",
+  "streamermod.message.ability_2": "Teleport - D10",
+  "streamermod.message.ability_3": "Levitation - D4",
+
+  "streamermod.message.cube": "A number appeared on the dice: %s",
+  "streamermod.message.max_cube": "MAX NUMBER!",
+
+  "streamermod.description.transmitter": "EXPLOSIVE! USE IT WISELY",
+  "streamermod.description.om_nom": "Do not use on bedrock and obsidian",
+  "streamermod.description.dnd_book": "It's an old book, but it's not simple"
+}

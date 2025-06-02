@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "streamermod:twitch_block"
+    },
+    "P": {
+      "item": "minecraft:glass_pane"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "S": {
+      "item": "streamermod:school_boot"
+    }
+  },
+  "pattern": [
+    "SPS",
+    "SBS",
+    "SRS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "streamermod:transmitter"
+  }
+}
