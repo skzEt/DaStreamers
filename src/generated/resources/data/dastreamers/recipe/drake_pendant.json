@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "dastreamers:ball_of_drake"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "I I",
+    "I I",
+    " B "
+  ],
+  "result": {
+    "count": 1,
+    "id": "dastreamers:drake_pendant"
+  }
+}

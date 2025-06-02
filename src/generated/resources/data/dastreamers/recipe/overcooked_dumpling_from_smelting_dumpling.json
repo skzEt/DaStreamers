@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 450,
+  "experience": 0.0,
+  "group": "dumpling",
+  "ingredient": {
+    "item": "dastreamers:dumpling"
+  },
+  "result": {
+    "id": "dastreamers:overcooked_dumpling"
+  }
+}

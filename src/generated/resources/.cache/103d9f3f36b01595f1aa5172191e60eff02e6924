@@ -1,0 +1,7 @@
+// 1.21.1	2025-06-02T17:52:54.8396511	Registries
+f26fc9d499d303dd5bbd8ee101133e3262ea95eb data/dastreamers/forge/biome_modifier/add_smile_forest.json
+55dc39aad0cd1b458c599c07d05623d9c5bca7a7 data/dastreamers/forge/biome_modifier/add_twitch_ore.json
+102a3b383335cb8ffdb8f2df0447ae7c5a039b1c data/dastreamers/worldgen/configured_feature/smile.json
+2664507f075356b3a12a318b5fbcdaa060a1040a data/dastreamers/worldgen/configured_feature/twitch_ore.json
+a3c682f41532eea2adcd46337e9a69153c7912f7 data/dastreamers/worldgen/placed_feature/smile_placed.json
+d281fbd05cc86b1d28e44bfccea3bf1929108da3 data/dastreamers/worldgen/placed_feature/twitch_ore_placed.json

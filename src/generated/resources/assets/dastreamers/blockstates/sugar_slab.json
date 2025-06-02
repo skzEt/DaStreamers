@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dastreamers:block/sugar_slab"
+    },
+    "type=double": {
+      "model": "dastreamers:block/sugar_block"
+    },
+    "type=top": {
+      "model": "dastreamers:block/sugar_slab_top"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "dastreamers:block/sugar_block",
+    "side": "dastreamers:block/sugar_block",
+    "top": "dastreamers:block/sugar_block"
+  }
+}

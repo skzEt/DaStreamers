@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "minecraft:plains",
+  "features": "dastreamers:smile_placed",
+  "step": "vegetal_decoration"
+}

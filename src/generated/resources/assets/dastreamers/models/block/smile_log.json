@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "dastreamers:block/smile_log_top",
+    "side": "dastreamers:block/smile_log"
+  }
+}

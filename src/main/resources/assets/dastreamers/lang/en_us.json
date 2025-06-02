@@ -1,0 +1,77 @@
+{
+  "item.dastreamers.dumpling": "Dumpling",
+  "item.dastreamers.dumpling_sun": "Antonio-pelmenito",
+  "item.dastreamers.stintocoin": "Stint coin",
+  "item.dastreamers.ball_of_drake": "Ball of Drake",
+  "item.dastreamers.mazellovvv_microphone": "Mazellovvv microphone",
+
+  "item.dastreamers.glasses": "Cool glasses",
+  "item.dastreamers.stint_helmet": "A coin-gilded helmet",
+  "item.dastreamers.boxers": "Boxers",
+  "item.dastreamers.dnd_chestplate": "DND Chestplate",
+  "item.dastreamers.dnd_book": "DND book",
+  "item.dastreamers.closed_dnd_book": "Empty DND book",
+  "item.dastreamers.drake_pendant": "Drake's pendant",
+
+  "item.dastreamers.overcooked_dumpling": "Burnt pelmi",
+  "item.dastreamers.mazellovvv_cookie": "Mazellovvv Cookie",
+
+  "block.dastreamers.ginger_block": "Ginger Bread Block",
+  "block.dastreamers.ginger_stairs": "Ginger Bread Stair",
+  "block.dastreamers.ginger_door": "Ginger Bread Door",
+
+  "block.dastreamers.sugar_block": "Sugar Block",
+  "block.dastreamers.sugar_stairs": "Sugar Stair",
+  "block.dastreamers.sugar_slab": "Sugar Slab",
+
+  "block.dastreamers.smile_log": "Smile Log",
+  "block.dastreamers.smile_wood": "Smile Wood",
+  "block.dastreamers.stripped_smile_log": "Stripped Smile Log",
+  "block.dastreamers.stripped_smile_wood": "Stripped Smile Wood",
+  "block.dastreamers.smile_planks": "Smile Planks",
+  "block.dastreamers.smile_leaves": "Smile Leaves",
+  "block.dastreamers.smile_sapling": "Smile Sapling",
+
+  "item.dastreamers.school_boot": "Velvet traction",
+  "item.dastreamers.twitch_diamond": "Twitch Diamond",
+  "item.dastreamers.coin_alloy": "Coin Alloy",
+  "item.dastreamers.om_nom": "Om Nom",
+  "item.dastreamers.super_om_nom": "Super Om Nom",
+  "item.dastreamers.eqlan_alloy": "Eblan Squada rafting",
+  "item.dastreamers.holy_mantle": "Holy Mantle",
+  "item.dastreamers.transmitter": "Transmitter",
+
+  "block.dastreamers.twitch_ore": "Twitch ore",
+  "block.dastreamers.deepslate_twitch_ore": "Deepslate Twitch ore",
+  "block.dastreamers.twitch_block": "Twitch Block",
+  "item.dastreamers.twitch_axe": "Twitch Axe",
+  "item.dastreamers.twitch_sword": "Twitch Sword",
+  "item.dastreamers.twitch_pickaxe": "Twitch Pickaxe",
+  "item.dastreamers.twitch_shovel": "Twitch Shovel",
+  "item.dastreamers.twitch_hoe": "Twitch Hoe",
+
+  "item.dastreamers.dice": "Dice",
+
+  "creativetab.streamer_tab": "Streamer Mod",
+  "button.dastreamers.attack_1": "Explosion",
+  "screen.dastreamers.smile": "Smiler",
+  "dastreamers.message.tnt": "There are %s TNT left",
+  "dastreamers.message.tnt1": "TNT Flying for %s",
+  "dastreamers.message.invalid": "13 poem - Disabled",
+  "dastreamers.message.okroshka": "70 poem - Okroshka",
+
+  "dastreamers.message.ability_1": "Explosive Beam - D6",
+  "dastreamers.message.ability_2": "Teleport - D10",
+  "dastreamers.message.ability_3": "Levitation - D4",
+  "dastreamers.message.ability_4": "The ray of death - D10",
+
+  "dastreamers.message.cube": "A number appeared on the dice: %s",
+  "dastreamers.message.max_cube": "MAX NUMBER!",
+
+  "dastreamers.message.death": "MAX NUMBER!",
+
+  "dastreamers.description.transmitter": "EXPLOSIVE! USE IT WISELY",
+  "dastreamers.description.om_nom": "Do not use on bedrock and obsidian",
+  "dastreamers.description.holy_mantle": "A sacred object created by the higher ones",
+  "dastreamers.description.dnd_book": "It's an old book, but it's not simple"
+}

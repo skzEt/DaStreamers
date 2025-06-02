@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "dastreamers:block/sugar_block"
+    }
+  }
+}

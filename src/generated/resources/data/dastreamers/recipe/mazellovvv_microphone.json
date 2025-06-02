@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "dastreamers:twitch_block"
+    },
+    "C": {
+      "item": "dastreamers:mazellovvv_cookie"
+    },
+    "D": {
+      "item": "dastreamers:twitch_diamond"
+    }
+  },
+  "pattern": [
+    " DB",
+    " CD",
+    "C  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "dastreamers:mazellovvv_microphone"
+  }
+}

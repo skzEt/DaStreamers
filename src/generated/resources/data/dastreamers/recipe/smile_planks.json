@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L": {
+      "item": "dastreamers:smile_log"
+    }
+  },
+  "pattern": [
+    "L"
+  ],
+  "result": {
+    "count": 4,
+    "id": "dastreamers:smile_planks"
+  }
+}

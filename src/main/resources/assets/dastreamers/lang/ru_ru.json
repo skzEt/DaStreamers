@@ -1,0 +1,75 @@
+{
+  "item.dastreamers.dumpling": "Пельмень",
+  "item.dastreamers.dumpling_sun": "Антонио-пельменито",
+  "item.dastreamers.ball_of_drake": "Шароподобный Дрейк",
+  "item.dastreamers.stintocoin": "Стинта Коин",
+  "item.dastreamers.mazellovvv_microphone": "Микрофон Мазелова",
+
+  "item.dastreamers.glasses": "Крутые очки",
+  "item.dastreamers.stint_helmet": "Позолоченный монетами шлем",
+  "item.dastreamers.boxers": "Боксеры",
+  "item.dastreamers.dnd_chestplate": "ДНД Нагрудник",
+  "item.dastreamers.dnd_book": "ДНД книга",
+  "item.dastreamers.closed_dnd_book": "Пустая ДНД книга",
+  "item.dastreamers.drake_pendant": "Подвеска Дрейка",
+
+  "item.dastreamers.overcooked_dumpling": "Сгоревший Пельми",
+  "item.dastreamers.mazellovvv_cookie": "Мазеловная печенька",
+  "block.dastreamers.ginger_door": "Имбирная пряниковая дверь",
+
+  "block.dastreamers.ginger_block": "Имбирный пряниковый блок",
+  "block.dastreamers.ginger_stairs": "Имбирный приняковый блок лестницы",
+
+  "block.dastreamers.sugar_block": "Сахарный блок",
+  "block.dastreamers.sugar_stairs": "Сахарный блок лестницы",
+  "block.dastreamers.sugar_slab": "Сахарная плита",
+
+  "block.dastreamers.smile_log": "Улыбчивое бревно",
+  "block.dastreamers.smile_wood": "Улыбчивое дерево",
+  "block.dastreamers.stripped_smile_log": "Обтессаное улыбчивое бревно",
+  "block.dastreamers.stripped_smile_wood": "Обтессаное улыбчивое дерево",
+  "block.dastreamers.smile_planks": "Улыбчивые доски",
+  "block.dastreamers.smile_leaves": "Улыбчивые листья",
+  "block.dastreamers.smile_sapling": "Улыбчивый сажанец",
+
+  "item.dastreamers.school_boot": "Бархатные тяги",
+  "item.dastreamers.twitch_diamond": "Твичовский алмаз",
+  "item.dastreamers.coin_alloy": "Сплав монет",
+  "item.dastreamers.om_nom": "Ам Ням",
+  "item.dastreamers.super_om_nom": "Супер Ам Ням",
+  "item.dastreamers.eqlan_alloy": "Сплав Еблан сквада",
+  "item.dastreamers.holy_mantle": "Святая мантия",
+  "item.dastreamers.transmitter": "Рация",
+
+  "block.dastreamers.twitch_ore": "Твичовская руда",
+  "block.dastreamers.deepslate_twitch_ore": "Глубокая сланцевая твичовская руда",
+  "block.dastreamers.twitch_block": "Твичовский блок",
+  "item.dastreamers.twitch_axe": "Твичовский топор",
+  "item.dastreamers.twitch_sword": "Твичовский меч",
+  "item.dastreamers.twitch_pickaxe": "Твичовская кирка",
+  "item.dastreamers.twitch_shovel": "Твичовская лопата",
+  "item.dastreamers.twitch_hoe": "Твичовская мотыга",
+
+  "item.dastreamers.dice": "Кубик",
+
+  "creativetab.streamer_tab": "Streamer Mod",
+  "button.dastreamers.attack_1": "Взрыв",
+  "screen.dastreamers.smile": "Улыбающийся",
+  "dastreamers.message.tnt": "Бомбящих птичек осталось: %s",
+  "dastreamers.message.tnt1": "Птички прелетят через: %s",
+  "dastreamers.message.invalid": "13 стих - Инвалид",
+  "dastreamers.message.okroshka": "70 стих - Окрошка",
+
+  "dastreamers.message.ability_1": "Взрывной луч - D6",
+  "dastreamers.message.ability_2": "Телепорт - D10",
+  "dastreamers.message.ability_3": "Леветация - D4",
+  "dastreamers.message.ability_4": "Луч смерти - D10",
+
+  "dastreamers.message.cube": "На кубике выпало число: %s",
+  "dastreamers.message.max_cube": "МАКСИМАЛЬНОЕ ЧИСЛО!",
+
+  "dastreamers.description.transmitter": "ВЗРЫВООПАСНО! ИСПОЛЬЗУЙ С УМОМ",
+  "dastreamers.description.om_nom": "Не использовать на бедрок и обсидиан",
+  "dastreamers.description.holy_mantle": "Священный предмет созданный высшими",
+  "dastreamers.description.dnd_book": "Старая книга, но она не простая"
+}

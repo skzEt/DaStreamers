@@ -1,0 +1,74 @@
+{
+  "om_nom_used": {
+    "subtitles": "sounds.dastreamers.om_nom_used",
+    "sounds": [
+      "dastreamers:om_nom_used"
+    ]
+  },
+  "om_nom_exploded": {
+    "subtitles": "sounds.dastreamers.om_nom_exploded",
+    "sounds": [
+      "dastreamers:om_nom_exploded"
+    ]
+  },
+  "holy_mantle_used": {
+    "subtitles": "sounds.dastreamers.holy_mantle_used",
+    "sounds": [
+      "dastreamers:holy_mantle_used"
+    ]
+  },
+  "noga": {
+    "subtitles": "sounds.dastreamers.noga",
+    "sounds": [
+      "dastreamers:noga"
+    ]
+  },
+  "blyat": {
+    "subtitles": "sounds.dastreamers.blyat",
+    "sounds": [
+      "dastreamers:blyat"
+    ]
+  },
+  "fnaf_1": {
+    "subtitles": "sounds.dastreamers.fnaf_1",
+    "sounds": [
+      "dastreamers:fnaf_1"
+    ]
+  },
+  "fnaf_2": {
+    "subtitles": "sounds.dastreamers.fnaf_2",
+    "sounds": [
+      "dastreamers:fnaf_2"
+    ]
+  },
+  "fnaf_3": {
+    "subtitles": "sounds.dastreamers.fnaf_3",
+    "sounds": [
+      "dastreamers:fnaf_3"
+    ]
+  },
+  "fnaf_4": {
+    "subtitles": "sounds.dastreamers.fnaf_4",
+    "sounds": [
+      "dastreamers:fnaf_4"
+    ]
+  },
+  "bird": {
+    "subtitles": "sounds.dastreamers.bird",
+    "sounds": [
+      "dastreamers:bird"
+    ]
+  },
+  "invalid": {
+    "subtitles": "sounds.dastreamers.invalid",
+    "sounds": [
+      "dastreamers:invalid"
+    ]
+  },
+  "okrohka": {
+    "subtitles": "sounds.dastreamers.okrohka",
+    "sounds": [
+      "dastreamers:okrohka"
+    ]
+  }
+}

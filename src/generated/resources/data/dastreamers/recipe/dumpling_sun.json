@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "dastreamers:dumpling"
+    },
+    "G": {
+      "item": "dastreamers:glasses"
+    }
+  },
+  "pattern": [
+    "GD"
+  ],
+  "result": {
+    "count": 1,
+    "id": "dastreamers:dumpling_sun"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 150,
+  "experience": 0.0,
+  "group": "stint",
+  "ingredient": {
+    "item": "dastreamers:stintocoin"
+  },
+  "result": {
+    "id": "dastreamers:coin_alloy"
+  }
+}

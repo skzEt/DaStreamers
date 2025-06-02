@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "dastreamers:block/ginger_block",
+    "side": "dastreamers:block/ginger_block",
+    "top": "dastreamers:block/ginger_block"
+  }
+}
