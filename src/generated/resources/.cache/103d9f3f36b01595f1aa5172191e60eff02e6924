@@ -1,7 +1,0 @@
-// 1.21.1	2025-06-02T02:02:24.1407125	Registries
-bc0cdd597d4f2730f383f54f729b15d016a627a9 data/streamermod/forge/biome_modifier/add_smile_forest.json
-0e308e18f03432040d6b335537df1deac53d1d3b data/streamermod/forge/biome_modifier/add_twitch_ore.json
-68ecaad9a62ee4a8f034097a16c6900a90d5e886 data/streamermod/worldgen/configured_feature/smile.json
-c7cde9bfea067cca67fb15b7948bd46e912f06de data/streamermod/worldgen/configured_feature/twitch_ore.json
-2fd0eedb217c0e680cdedf8323624ad3047d2463 data/streamermod/worldgen/placed_feature/smile_placed.json
-cdea67d51583e8d50b464286baf97f1a76b13480 data/streamermod/worldgen/placed_feature/twitch_ore_placed.json

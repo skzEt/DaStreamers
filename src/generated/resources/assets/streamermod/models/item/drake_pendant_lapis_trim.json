@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "streamermod:item/drake_pendant",
-    "layer1": "minecraft:trims/items/_trim_lapis"
-  }
-}

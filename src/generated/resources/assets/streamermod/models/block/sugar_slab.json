@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab",
-  "textures": {
-    "bottom": "streamermod:block/sugar_block",
-    "side": "streamermod:block/sugar_block",
-    "top": "streamermod:block/sugar_block"
-  }
-}
